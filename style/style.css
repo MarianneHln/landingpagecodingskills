@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('nav.css');
+@import url('banner.css');
+@import url('button.css');
+@import url('searchbar.css');
+@import url('cards.css');
+@import url('footer.css');
+@import url('titre2.css');
+@import url('menu1.css');
+@import url('menu3.css');
+@import url('description.css');
+
+body {
+
+width: 100%;
+margin: 0;
+background-color: white;
+cursor: crosshair;
+
+}
+
+
+a {
+
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color: white;
+
+}

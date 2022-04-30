@@ -1,0 +1,36 @@
+/* contenu de la barre de navigation */
+
+input[type=text] {
+      opacity: 20%;
+      width: 300px;
+      height: 5vh;
+      border: none;
+      float: right;
+      margin-right: 2vh;
+
+   }
+
+   input[type=text]:hover {
+      color: black;
+   }
+
+button[type=submit] {
+      
+      float: right;
+      background-color: #d29fec;
+      border: 2px solid #d29fec;
+      width: 10vh;
+      height: auto;
+
+   }
+
+.loupe {
+
+   width: 5vh;
+    
+   }
+
+.searchbar {
+
+    
+   }

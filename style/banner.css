@@ -1,0 +1,44 @@
+#banner {
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 70vh;
+background-image: url('../images/banner3.png');
+background-size: cover;
+background-position: center;
+color: white;
+text-align: center;
+
+}
+
+#banner h1{
+
+text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.7);
+color:white;
+font-size: 30px;
+font-family: 'Poppins';
+letter-spacing: 2px;
+
+}
+
+@media (max-width: 576px) {
+
+h1 {
+
+max-width: 400px;
+
+}
+
+}
+
+@media (max-width: 576px) {
+
+h2 {
+
+max-width: 400px;
+
+}
+
+}

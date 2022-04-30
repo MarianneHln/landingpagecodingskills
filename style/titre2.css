@@ -1,0 +1,13 @@
+.titre2 {
+
+color: #D29FEC;
+font-family: 'Poppins';
+text-transform: uppercase;
+text-align: center;
+font-size: 20px;
+margin: 20px auto;
+border-bottom: 3px solid #D29FEC;
+width: 640px;
+display: block;
+
+}

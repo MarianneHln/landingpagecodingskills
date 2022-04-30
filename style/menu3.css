@@ -1,0 +1,45 @@
+.menu3 {
+
+display: flex;
+background-color: #504C53;
+margin-top: 30px;
+
+}
+
+.descriptionprofile {
+
+color: white;
+padding: 40px;
+margin: 0px;
+justify-content: center;
+text-align: justify;
+text-justify: inter-word;
+font-family: 'Poppins';
+overflow: hidden;
+
+}
+
+.imageprofile {
+
+height: auto;
+
+}
+
+@media (max-width: 576px) {
+
+.descriptionprofile {
+
+display: inline-block;
+
+}
+
+@media (max-width: 576px) {
+
+.imageprofile {
+
+max-width: 200px;
+display: inline-block;
+
+}
+
+}

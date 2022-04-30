@@ -1,0 +1,18 @@
+.barre {
+
+margin-top: -80px;
+height: 100px;
+background-color: #D29FEC;
+z-index: 2;
+
+}
+
+#carouselExemple {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
